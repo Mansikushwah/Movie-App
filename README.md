@@ -1,7 +1,3 @@
-# Movie App
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 The Movie App is a web application designed to provide users with information about various movies. The app includes features such as fetching real-time data like IMDb ratings, detailed descriptions, and related videos. Its user-friendly interface ensures a seamless experience for exploring movie details.
@@ -25,4 +21,11 @@ The Movie App is a web application designed to provide users with information ab
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-app.git
+   git clone https://github.com/Mansikushwah/Screen-Safari
+
+2. Open the index.html file in your preferred web browser.
+
+3. Explore the movie information using the user-friendly interface.
+
+### Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
